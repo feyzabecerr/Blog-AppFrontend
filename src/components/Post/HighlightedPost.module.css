@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css?family=Gill+Sans');
+
+.post {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background: #FAFAFA;
+    color: white;
+    border-radius: 18px;
+    padding: 60px;
+    box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.15);
+    border: 1px solid rgba(0, 0, 0, 0.2);
+    margin-left: -9rem;
+    width: 1000px;
+    box-sizing: border-box;
+
+  }
+  
+  .post p {
+    font-size: 2.5rem;
+    color: rgb(179, 87, 87);  }
+  
+  .post figcaption {
+    font-style: normal;
+    font-size: 1.5rem;
+    font-family: "Gill Sans", sans-serif;
+    text-align: left;
+    color: #1f1f1f;
+  }
